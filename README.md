@@ -6,6 +6,8 @@ When you launch it, you just have to press a button on the gamepad you want to u
 
 For now, it's just track the left stick and the four button of the XBox pad!
 
+**You can download it on the [Releases screen](https://github.com/Bigaston/press/releases)!**
+
 ![Screenshot](https://github.com/Bigaston/press/blob/master/pictures/pr%C3%ABss-screen.png)
 
 If you have so bug or some idea, just send me a message on [my Twitter account](https://twitter.com/Bigaston)!  
