@@ -11,4 +11,5 @@ For now, it's just track the left stick and the four button of the XBox pad!
 ![Screenshot](https://github.com/Bigaston/press/blob/master/pictures/pr%C3%ABss-screen.png)
 
 If you have so bug or some idea, just send me a message on [my Twitter account](https://twitter.com/Bigaston)!  
-If you want to help me, you can [buy me a Coffee](https://ko-fi.com/bigaston)!
+
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/A0A05WS6)
